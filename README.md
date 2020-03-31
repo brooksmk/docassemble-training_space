@@ -1,6 +1,6 @@
-# docassemble.startOfCaseDocs
+# docassemble.training_space
 
-An interview that fills in and presents to a client for review and electronic signature an authorization, retainer, and limited assistance representation form (if applicable).
+A space to train folks on the basics of docassemble, including how to edit interview files in github. 
 
 ## Author
 
@@ -8,6 +8,5 @@ Mbrooks@gbls.org
 
 ## change log
 
-10-22-18: Initial commit.
-11-23-18: Added fees language to retainer.
+31-03-2020: Initial commit
 
