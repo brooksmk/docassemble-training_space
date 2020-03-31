@@ -46,14 +46,12 @@ fields:
   - Last Name: client.name.last
 ---
 question: |
-  Tell me your name, email address, and BBO (if applicable).
+  Tell me your client's name, email address.
 fields:
-  - First Name: advocate.name.first
-  - Last Name: advocate.name.last
-  - Email Address: advocate.email
+  - First Name: client.name.first
+  - Last Name: client.name.last
+  - Email Address: client.email
     datatype: email
-  - BBO Number: advocate.BBO
-    required: False
 ---
 comment: |
   ## Main question text is put in the "under:" statement here because it displays
